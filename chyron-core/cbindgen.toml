@@ -1,0 +1,5 @@
+language = "C++"
+
+include_version = true
+pragma_once = true
+header = "#pragma comment (lib, \"User32.lib\")\n#pragma comment (lib, \"UserEnv.lib\")\n#pragma comment (lib, \"bcrypt.lib\")"
